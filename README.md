@@ -3,11 +3,12 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alix-leve/)
 
 ## 🧭 Professional background
-I started my career at ARTE France as a web editor and production manager. I spent 4 years advising partner companies on the production and distribution of video content on the web and social networks. Thanks to the various projects I've worked on, I've been able to strengthen my communication and project management skills.
-
+I started my career at ARTE France as a web editor and production manager. Thanks to the various projects I've worked on, I've been able to strengthen my communication and project management skills.
 Then, wanting to get closer to the final customer and the product, I changed jobs and became a cheesemonger at Terroirs d'Avenir. The team spirit required for this job and my desire to respond as effectively as possible to customer requests carried me through this experience.
+My previous experience before Ada, as an account manager at Kube, led me to work hand-in-hand with developers to improve the user experience and convert visitors into subscribers. 
 
 Alongside my professional career, I have been self-training in web development by taking online courses. With Ada Tech School, I took the plunge and became a web developer, putting my skills to work for my future company!
+
 
 Ada Tech School is a school whose pedagogy is based on autonomy and collaboration. The programme is structured in two parts: one part is devoted to learning the fundamentals of programming while doing peer-programming. A second time to carry out collective projects, using the agile method. These two periods are rotated every fortnight. 
 
