@@ -18,7 +18,7 @@ Being close to a project, from conceptualisation to delivery, being able to test
 **As a strong team player with an inquisitive mind, I enjoy peer-programming, exchanging ideas and learning from my peers.**
 
 ## 🛠️ Tech stack
-**JavaScript, Nodes.js, Express, Python, SQL, HTML, CSS**
+**JavaScript, Python, Django, SQL, HTML, CSS**
 
 ## 🌱 Hobbies
 I love cooking, trying new recipes and sharing meals with friends and family. I've also had a strain of sourdough for over 2 years, which I use to adapt recipes for cakes and cookies.
