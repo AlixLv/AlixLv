@@ -9,6 +9,8 @@ My previous experience before Ada, as an account manager at Kube, led me to work
 
 Alongside my professional career, I have been self-training in web development by taking online courses. With Ada Tech School, I took the plunge and became a web developer, putting my skills to work for my future company!
 
+**I’m currently looking for an apprenticeship starting from February 2025 to perfect my skills.**
+
 
 Ada Tech School is a school whose pedagogy is based on autonomy and collaboration. The programme is structured in two parts: one part is devoted to learning the fundamentals of programming while doing peer-programming. A second time to carry out collective projects, using the agile method. These two periods are rotated every fortnight. 
 
@@ -19,6 +21,8 @@ Being close to a project, from conceptualisation to delivery, being able to test
 
 ## 🛠️ Tech stack
 **JavaScript, Python, Django, SQL, HTML, CSS**
+
+[![My Skills](https://skillicons.dev/icons?i=js,python,django,html,css)](https://skillicons.dev)
 
 ## 🌱 Hobbies
 I love cooking, trying new recipes and sharing meals with friends and family. I've also had a strain of sourdough for over 2 years, which I use to adapt recipes for cakes and cookies.
