@@ -3,13 +3,11 @@
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alix-leve/)
 
 ## 🧭 Professional background
-I previously worked at ARTE France, where my main missions were to provide editorial recommandations and best practices to our external partners. Thanks to this experience, I strengthened my communication and project management skills.
-Then, wanting to get closer to the final customer and the product, I changed jobs and became a cheesemonger at Terroirs d'Avenir. The team spirit required for this job and my desire to respond as effectively as possible to customer requests carried me through this experience.
-Finally, I worked at Kube, as a customer relations-manager. This position enabled me to strengthen my skills in identifying customer needs and translating them for the business teams. It also led me to work hand-in-hand with developers to improve the user experience and convert visitors into subscribers. 
+Formerly a customer service representative and store manager, I'm retraining at Ada Tech School in backend development. After actively participating in sales strategy and building trusting relationships with customers at my previous employers, I now want to put my skills to work to improve product quality.
 
 Alongside my professional career, I have been self-training in web development by taking online courses. With Ada Tech School, I took the plunge and became a web developer, putting my skills to work for my future company!
 
-**I’m currently looking for an apprenticeship starting from April/Mai 2025 to perfect my skills.**
+**I’m currently looking for an apprenticeship starting from June 2025 to perfect my skills.**
 
 
 Ada Tech School is a school whose pedagogy is based on autonomy and collaboration. The programme is structured in two parts: one part is devoted to learning the fundamentals of programming while doing peer-programming. A second time to carry out collective projects, using the agile method. These two periods are rotated every fortnight. 
