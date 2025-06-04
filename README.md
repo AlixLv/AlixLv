@@ -18,9 +18,9 @@ Being close to a project, from conceptualisation to delivery, being able to test
 **As a strong team player with an inquisitive mind, I enjoy peer-programming, exchanging ideas and learning from my peers.**
 
 ## 🛠️ Tech stack
-**JavaScript, Python, Django, SQL, TailwindCSS, HTML5, CSS3**
+**JavaScript, Python, Django, FastAPI, SQL, TailwindCSS, HTML5, CSS3**
 
-[![My Skills](https://skillicons.dev/icons?i=js,python,django,tailwind,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,django,fastapi,tailwind,html,css)](https://skillicons.dev)
 
 ## 🌱 Hobbies
 I love cooking, trying new recipes and sharing meals with friends and family. I've also had a strain of sourdough for over 2 years, which I use to adapt recipes for cakes and cookies.
